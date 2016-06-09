@@ -7,7 +7,7 @@ The occurence of each keyword for each candidate is then calculated
 
 format of keywords/topics in csv file (without spaces): 
 
-```word	topic
+word	topic
 
 recession	economy
 
@@ -15,4 +15,4 @@ growth	economy
 
 economy	economy
 
-```
+
